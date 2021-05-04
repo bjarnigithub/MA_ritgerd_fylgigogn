@@ -1,0 +1,184 @@
+----------------------------------------------------------------------------------------------
+Nákvæmni forritsins er: 97.47%
+Heimt forritsins er: 63.64%
+F-measure: 77.00%
+----------------------------------------------------------------------------------------------
+Eftirfarandi eru setningar textans sem voru rangt greindar samanbornar við rétta greiningu: 
+(Ath. það gæti verið að sumar aðalsetningar séu rétt greindar en aðrar ekki.)
+
+Rétt greining: [['VS:II_47P', 'og', 'tey', 'lovaðu', 'Guði', '1928.NTACTS.REL-BIB,.101'], ['og', 'hövdu', 'yndi', 'hjá', 'öllum', 'fólkinum', '.', '1928.NTACTS.REL-BIB,.102']]
+Röng greining: [['VS:II_47P', 'og', 'tey', 'lovaðu', 'Guði', '1928.NTACTS.REL-BIB,.101', 'og', 'hövdu', 'yndi', 'hjá', 'öllum', 'fólkinum', '.', '1928.NTACTS.REL-BIB,.102']]
+
+Rétt greining: [['VS:III_7P', 'Og', 'hann', 'tók', 'í', 'högru', 'hond', 'á', 'honum', '1928.NTACTS.REL-BIB,.115'], ['og', 'reisti', 'hann', 'á', 'fötur', '.', '1928.NTACTS.REL-BIB,.116']]
+Röng greining: [['VS:III_7P', 'Og', 'hann', 'tók', 'í', 'högru', 'hond', 'á', 'honum', '1928.NTACTS.REL-BIB,.115', 'og', 'reisti', 'hann', 'á', 'fötur', '.', '1928.NTACTS.REL-BIB,.116']]
+
+Rétt greining: [['VS:V_5P', 'Men', 'tá', 'ið', 'Ánanias', 'hoyrdi', 'hesi', 'orð', ',', 'fell', 'hann', 'niður', '1928.NTACTS.REL-BIB,.205'], ['og', 'gav', 'upp', 'andan', '.', '1928.NTACTS.REL-BIB,.206']]
+Röng greining: [['VS:V_5P', 'Men', 'tá', 'ið', 'Ánanias', 'hoyrdi', 'hesi', 'orð', ',', 'fell', 'hann', 'niður', '1928.NTACTS.REL-BIB,.205', 'og', 'gav', 'upp', 'andan', '.', '1928.NTACTS.REL-BIB,.206']]
+
+Rétt greining: [['VS:VI_9P', 'Men', 'tá', 'stigu', 'upp', 'nakrir', 'menn', 'frá', 'tí', 'samkomuhúsinum', ',', 'sum', 'er', 'kallað', 'eftir', 'Libertinum', 'og', 'Kýreneingum', 'og', 'Aleksandriumonnum', ',', 'og', 'nakrir', 'av', 'teimum', 'frá', 'Kilikíu', 'og', 'Ásiu', '1928.NTACTS.REL-BIB,.306'], ['og', 'hövdu', 'orðadrátt', 'við', 'Stefan', '.', '1928.NTACTS.REL-BIB,.307']]
+Röng greining: [['VS:VI_9P', 'Men', 'tá', 'stigu', 'upp', 'nakrir', 'menn', 'frá', 'tí', 'samkomuhúsinum', ',', 'sum', 'er', 'kallað', 'eftir', 'Libertinum', 'og', 'Kýreneingum', 'og', 'Aleksandriumonnum', ',', 'og', 'nakrir', 'av', 'teimum', 'frá', 'Kilikíu', 'og', 'Ásiu', '1928.NTACTS.REL-BIB,.306', 'og', 'hövdu', 'orðadrátt', 'við', 'Stefan', '.', '1928.NTACTS.REL-BIB,.307']]
+
+Rétt greining: [['VS:VII_21P', 'Men', 'tá', 'ið', 'hann', 'varð', 'útborin', ',', 'tók', 'dóttir', 'Fáraos', 'hann', 'upp', '1928.NTACTS.REL-BIB,.355'], ['og', 'fostraði', 'hann', 'sum', 'sín', 'egna', 'son', '.', '1928.NTACTS.REL-BIB,.356']]
+Röng greining: [['VS:VII_21P', 'Men', 'tá', 'ið', 'hann', 'varð', 'útborin', ',', 'tók', 'dóttir', 'Fáraos', 'hann', 'upp', '1928.NTACTS.REL-BIB,.355', 'og', 'fostraði', 'hann', 'sum', 'sín', 'egna', 'son', '.', '1928.NTACTS.REL-BIB,.356']]
+
+Rétt greining: [['VS:VII_46P', 'Hann', 'fann', 'náði', 'hjá', 'Guði', '1928.NTACTS.REL-BIB,.405'], ['og', 'bað', 'um', ',', 'at', 'hann', 'mátti', 'finna', 'ein', 'bústað', 'fyri', 'Guði', 'Jákups', '.', '1928.NTACTS.REL-BIB,.406']]
+Röng greining: [['VS:VII_46P', 'Hann', 'fann', 'náði', 'hjá', 'Guði', '1928.NTACTS.REL-BIB,.405', 'og', 'bað', 'um', ',', 'at', 'hann', 'mátti', 'finna', 'ein', 'bústað', 'fyri', 'Guði', 'Jákups', '.', '1928.NTACTS.REL-BIB,.406']]
+
+Rétt greining: [['hann', 'hevði', 'gand', 'fyri', '1928.NTACTS.REL-BIB,.453'], ['og', 'gjördi', 'fólkið', 'í', 'Sámáriu', 'bilsið', ',', 'við', 'tað', 'at', 'hann', 'segði', 'seg', 'sjálvan', 'vera', 'nakað', 'stórt', '.', '1928.NTACTS.REL-BIB,.454']]
+Röng greining: [['hann', 'hevði', 'gand', 'fyri', '1928.NTACTS.REL-BIB,.453', 'og', 'gjördi', 'fólkið', 'í', 'Sámáriu', 'bilsið', ',', 'við', 'tað', 'at', 'hann', 'segði', 'seg', 'sjálvan', 'vera', 'nakað', 'stórt', '.', '1928.NTACTS.REL-BIB,.454']]
+
+Rétt greining: [['VS:VIII_29P', 'Men', 'andin', 'segði', 'við', 'Filippus', ':', '"', 'Far', '1928.NTACTS.REL-BIB,.490'], ['og', 'halt', 'teg', 'aftur', 'at', 'hesum', 'vagni', '!', '"', '1928.NTACTS.REL-BIB,.491']]
+Röng greining: [['VS:VIII_29P', 'Men', 'andin', 'segði', 'við', 'Filippus', ':', '"', 'Far', '1928.NTACTS.REL-BIB,.490', 'og', 'halt', 'teg', 'aftur', 'at', 'hesum', 'vagni', '!', '"', '1928.NTACTS.REL-BIB,.491']]
+
+Rétt greining: [['Men', 'dagin', 'eftir', 'reistist', 'hann', '1928.NTACTS.REL-BIB,.662'], ['og', 'fór', 'avstað', 'við', 'teimum', ',', '1928.NTACTS.REL-BIB,.663'], ['og', 'nakrir', 'av', 'bröðrunum', 'úr', 'Joppe', 'fóru', 'við', 'honum', '.', '1928.NTACTS.REL-BIB,.664']]
+Röng greining: [['Men', 'dagin', 'eftir', 'reistist', 'hann', '1928.NTACTS.REL-BIB,.662', 'og', 'fór', 'avstað', 'við', 'teimum', ',', '1928.NTACTS.REL-BIB,.663'], ['og', 'nakrir', 'av', 'bröðrunum', 'úr', 'Joppe', 'fóru', 'við', 'honum', '.', '1928.NTACTS.REL-BIB,.664']]
+
+Rétt greining: [['VS:X_40P', 'Hann', 'reisti', 'Guð', 'upp', 'triðja', 'dagin', '1928.NTACTS.REL-BIB,.695'], ['og', 'læt', 'hann', 'opinberast', ',', 'VS:X_41P', 'ikki', 'fyri', 'öllum', 'fólkinum', ',', 'men', 'fyri', 'vitnunum', ',', 'sum', 'áður', 'vóru', 'vald', 'út', 'av', 'Guði', ',', 'okkum', ',', 'sum', 'ótu', 'og', 'drukku', 'við', 'honum', ',', 'eftir', 'tað', 'at', 'hann', 'var', 'risin', 'upp', 'frá', 'deyðum', '.', '1928.NTACTS.REL-BIB,.696']]
+Röng greining: [['VS:X_40P', 'Hann', 'reisti', 'Guð', 'upp', 'triðja', 'dagin', '1928.NTACTS.REL-BIB,.695', 'og', 'læt', 'hann', 'opinberast', ',', 'VS:X_41P', 'ikki', 'fyri', 'öllum', 'fólkinum', ',', 'men', 'fyri', 'vitnunum', ',', 'sum', 'áður', 'vóru', 'vald', 'út', 'av', 'Guði', ',', 'okkum', ',', 'sum', 'ótu', 'og', 'drukku', 'við', 'honum', ',', 'eftir', 'tað', 'at', 'hann', 'var', 'risin', 'upp', 'frá', 'deyðum', '.', '1928.NTACTS.REL-BIB,.696']]
+
+Rétt greining: [['VS:XI_2P', 'Og', 'tá', 'ið', 'Pætur', 'kom', 'niðan', 'til', 'Jerúsalem', ',', 'átalaðu', 'hinir', 'av', 'umskeringini', 'hann', '1928.NTACTS.REL-BIB,.706'], ['og', 'sögdu', ':', 'VS:XI_3P', '"', 'Tú', 'ert', 'farin', 'inn', 'til', 'óumskornar', 'menn', '1928.NTACTS.REL-BIB,.707'], ['og', 'hevur', 'etið', 'saman', 'við', 'teimum', '.', '"', '1928.NTACTS.REL-BIB,.708']]
+Röng greining: [['VS:XI_2P', 'Og', 'tá', 'ið', 'Pætur', 'kom', 'niðan', 'til', 'Jerúsalem', ',', 'átalaðu', 'hinir', 'av', 'umskeringini', 'hann', '1928.NTACTS.REL-BIB,.706', 'og', 'sögdu', ':', 'VS:XI_3P', '"', 'Tú', 'ert', 'farin', 'inn', 'til', 'óumskornar', 'menn', '1928.NTACTS.REL-BIB,.707', 'og', 'hevur', 'etið', 'saman', 'við', 'teimum', '.', '"', '1928.NTACTS.REL-BIB,.708']]
+
+Rétt greining: [['Og', 'hann', 'gekk', 'út', '1928.NTACTS.REL-BIB,.808'], ['og', 'fór', 'burtur', 'í', 'annan', 'stað', '.', '1928.NTACTS.REL-BIB,.809']]
+Röng greining: [['Og', 'hann', 'gekk', 'út', '1928.NTACTS.REL-BIB,.808', 'og', 'fór', 'burtur', 'í', 'annan', 'stað', '.', '1928.NTACTS.REL-BIB,.809']]
+
+Rétt greining: [['VS:XIII_9P', 'Men', 'Saul', ',', 'sum', 'eisini', 'verður', 'kallaður', 'Paulus', ',', 'varð', 'fyltur', 'av', 'heilagum', 'anda', '1928.NTACTS.REL-BIB,.846'], ['og', 'hugdi', 'hvassliga', 'upp', 'á', 'hann', '1928.NTACTS.REL-BIB,.847'], ['og', 'segði', ':', 'VS:XIII_10P', '"', 'O', ',', 'tú', 'sum', 'ert', 'fullur', 'av', 'öllum', 'sviki', 'og', 'alskyns', 'illskapi', ',', 'títt', 'djevuls', 'barn', ',', 'fíggindi', 'av', 'öllum', 'rættlæti', ',', 'vilt', 'tú', 'ikki', 'lata', 'av', 'at', 'snúgva', 'beinu', 'vegum', 'Harrans', '?', '1928.NTACTS.REL-BIB,.848']]
+Röng greining: [['VS:XIII_9P', 'Men', 'Saul', ',', 'sum', 'eisini', 'verður', 'kallaður', 'Paulus', ',', 'varð', 'fyltur', 'av', 'heilagum', 'anda', '1928.NTACTS.REL-BIB,.846', 'og', 'hugdi', 'hvassliga', 'upp', 'á', 'hann', '1928.NTACTS.REL-BIB,.847', 'og', 'segði', ':', 'VS:XIII_10P', '"', 'O', ',', 'tú', 'sum', 'ert', 'fullur', 'av', 'öllum', 'sviki', 'og', 'alskyns', 'illskapi', ',', 'títt', 'djevuls', 'barn', ',', 'fíggindi', 'av', 'öllum', 'rættlæti', ',', 'vilt', 'tú', 'ikki', 'lata', 'av', 'at', 'snúgva', 'beinu', 'vegum', 'Harrans', '?', '1928.NTACTS.REL-BIB,.848']]
+
+Rétt greining: [['VS:XIII_29P', 'Men', 'tá', 'ið', 'teir', 'hövdu', 'fullfört', 'alt', 'tað', ',', 'sum', 'er', 'skrivað', 'um', 'hann', ',', 'tóku', 'teir', 'hann', 'niður', 'av', 'trænum', '1928.NTACTS.REL-BIB,.887'], ['og', 'lögdu', 'hann', 'í', 'gröv', '.', '1928.NTACTS.REL-BIB,.888']]
+Röng greining: [['VS:XIII_29P', 'Men', 'tá', 'ið', 'teir', 'hövdu', 'fullfört', 'alt', 'tað', ',', 'sum', 'er', 'skrivað', 'um', 'hann', ',', 'tóku', 'teir', 'hann', 'niður', 'av', 'trænum', '1928.NTACTS.REL-BIB,.887', 'og', 'lögdu', 'hann', 'í', 'gröv', '.', '1928.NTACTS.REL-BIB,.888']]
+
+Rétt greining: [['VS:XIII_51P', 'Men', 'teir', 'ristu', 'dustið', 'av', 'fótum', 'sínum', 'móti', 'teimum', '1928.NTACTS.REL-BIB,.919'], ['og', 'fóru', 'til', 'Ikonium', '.', '1928.NTACTS.REL-BIB,.920']]
+Röng greining: [['VS:XIII_51P', 'Men', 'teir', 'ristu', 'dustið', 'av', 'fótum', 'sínum', 'móti', 'teimum', '1928.NTACTS.REL-BIB,.919', 'og', 'fóru', 'til', 'Ikonium', '.', '1928.NTACTS.REL-BIB,.920']]
+
+Rétt greining: [['Og', 'hann', 'sprakk', 'upp', '1928.NTACTS.REL-BIB,.934'], ['og', 'gekk', '.', '1928.NTACTS.REL-BIB,.935']]
+Röng greining: [['Og', 'hann', 'sprakk', 'upp', '1928.NTACTS.REL-BIB,.934', 'og', 'gekk', '.', '1928.NTACTS.REL-BIB,.935']]
+
+Rétt greining: [['VS:XVI_22P', 'Og', 'mannamúgvan', 'reistist', 'móti', 'teimum', ',', '1928.NTACTS.REL-BIB,.1074'], ['og', 'stýrismenninir', 'skræddu', 'klæðini', 'av', 'teimum', '1928.NTACTS.REL-BIB,.1075'], ['og', 'buðu', ',', 'at', 'teir', 'skuldu', 'verða', 'bardir', 'við', 'stövum', '.', '1928.NTACTS.REL-BIB,.1076']]
+Röng greining: [['VS:XVI_22P', 'Og', 'mannamúgvan', 'reistist', 'móti', 'teimum', ',', '1928.NTACTS.REL-BIB,.1074'], ['og', 'stýrismenninir', 'skræddu', 'klæðini', 'av', 'teimum', '1928.NTACTS.REL-BIB,.1075', 'og', 'buðu', ',', 'at', 'teir', 'skuldu', 'verða', 'bardir', 'við', 'stövum', '.', '1928.NTACTS.REL-BIB,.1076']]
+
+Rétt greining: [['VS:II_8M', 'Og', 'hann', 'sendi', 'teir', 'til', 'Bethlehem', ',', '1823.NTMATT.REL-BIB,.66'], ['og', 'segði', ':', 'Farið', 'Tit', '1823.NTMATT.REL-BIB,.67'], ['og', 'fregnist', 'flittuliga', 'um', 'Barnið', ';', '1823.NTMATT.REL-BIB,.68'], ['men', 'táið', 'Tit', 'hava', 'funnið', 'tað', ',', 'tá', 'greinið', 'mær', 'frá', 'tí', ',', 'at', 'Eg', 'eisini', 'kann', 'koma', ',', 'og', 'tilbiðja', 'tað', '.', '1823.NTMATT.REL-BIB,.69']]
+Röng greining: [['VS:II_8M', 'Og', 'hann', 'sendi', 'teir', 'til', 'Bethlehem', ',', '1823.NTMATT.REL-BIB,.66'], ['og', 'segði', ':', 'Farið', 'Tit', '1823.NTMATT.REL-BIB,.67', 'og', 'fregnist', 'flittuliga', 'um', 'Barnið', ';', '1823.NTMATT.REL-BIB,.68'], ['men', 'táið', 'Tit', 'hava', 'funnið', 'tað', ',', 'tá', 'greinið', 'mær', 'frá', 'tí', ',', 'at', 'Eg', 'eisini', 'kann', 'koma', ',', 'og', 'tilbiðja', 'tað', '.', '1823.NTMATT.REL-BIB,.69']]
+
+Rétt greining: [['VS:IV_3M', 'Og', 'Frístarin', 'gekk', 'til', 'hansara', '1823.NTMATT.REL-BIB,.143'], ['og', 'segði', ':', 'er', 'tú', 'Sonur', 'Guds', ',', 'tá', 'sig', ',', 'at', 'Steinarnir', 'hesir', 'blíva', 'Breyð', '.', '1823.NTMATT.REL-BIB,.144']]
+Röng greining: [['VS:IV_3M', 'Og', 'Frístarin', 'gekk', 'til', 'hansara', '1823.NTMATT.REL-BIB,.143', 'og', 'segði', ':', 'er', 'tú', 'Sonur', 'Guds', ',', 'tá', 'sig', ',', 'at', 'Steinarnir', 'hesir', 'blíva', 'Breyð', '.', '1823.NTMATT.REL-BIB,.144']]
+
+Rétt greining: [['VS:XI_25M', 'Um', 'tað', 'somu', 'Tíð', 'breyt', 'Jesus', 'út', ',', '1823.NTMATT.REL-BIB,.641'], ['og', 'segði', ':', 'Eg', 'prísi', 'tær', ',', 'Faðir', ',', 'Himmalins', 'og', 'Jörðina', 'Harri', '!', 'at', 'tú', 'hevur', 'fjalt', 'hetta', 'fyri', 'teim', 'Ómyndigu', '.', '1823.NTMATT.REL-BIB,.642']]
+Röng greining: [['VS:XI_25M', 'Um', 'tað', 'somu', 'Tíð', 'breyt', 'Jesus', 'út', ',', '1823.NTMATT.REL-BIB,.641'], ['og', 'segði', ':', 'Eg', 'prísi', 'tær', ',', 'Faðir', ',', 'Himmalins'], ['og', 'Jörðina', 'Harri', '!', 'at', 'tú', 'hevur', 'fjalt', 'hetta', 'fyri', 'teim', 'Ómyndigu', '.', '1823.NTMATT.REL-BIB,.642']]
+
+Rétt greining: [['VS:I_32J', 'Og', 'Jóhannes', 'vitnaði', '1936.NTJOHN.REL-BIB,.60'], ['og', 'segði', ':', '"', 'Eg', 'sá', 'andan', 'stíga', 'niður', 'av', 'himni', 'í', 'dúgvu', 'líki', ',', '1936.NTJOHN.REL-BIB,.61'], ['og', 'hann', 'varð', 'verandi', 'yvir', 'honum', '.', '1936.NTJOHN.REL-BIB,.62']]
+Röng greining: [['VS:I_32J', 'Og', 'Jóhannes', 'vitnaði', '1936.NTJOHN.REL-BIB,.60', 'og', 'segði', ':', '"', 'Eg', 'sá', 'andan', 'stíga', 'niður', 'av', 'himni', 'í', 'dúgvu', 'líki', ',', '1936.NTJOHN.REL-BIB,.61'], ['og', 'hann', 'varð', 'verandi', 'yvir', 'honum', '.', '1936.NTJOHN.REL-BIB,.62']]
+
+Rétt greining: [['Filippus', 'sigur', 'við', 'hann', ':', '"', 'Kom', '1936.NTJOHN.REL-BIB,.94'], ['og', 'síggj', '!', '"', '1936.NTJOHN.REL-BIB,.95']]
+Röng greining: [['Filippus', 'sigur', 'við', 'hann', ':', '"', 'Kom', '1936.NTJOHN.REL-BIB,.94', 'og', 'síggj', '!', '"', '1936.NTJOHN.REL-BIB,.95']]
+
+Rétt greining: [['VS:II_18J', 'Tá', 'tóku', 'Jödarnir', 'til', 'orða', '1936.NTJOHN.REL-BIB,.139'], ['og', 'sögdu', 'við', 'hann', ':', '"', 'Hvat', 'tekin', 'sýnir', 'tú', 'okkum', ',', 'eftir', 'sum', 'tú', 'gert', 'hetta', '?', '"', '1936.NTJOHN.REL-BIB,.140']]
+Röng greining: [['VS:II_18J', 'Tá', 'tóku', 'Jödarnir', 'til', 'orða', '1936.NTJOHN.REL-BIB,.139', 'og', 'sögdu', 'við', 'hann', ':', '"', 'Hvat', 'tekin', 'sýnir', 'tú', 'okkum', ',', 'eftir', 'sum', 'tú', 'gert', 'hetta', '?', '"', '1936.NTJOHN.REL-BIB,.140']]
+
+Rétt greining: [['VS:III_3J', 'Jesus', 'svaraði', '1936.NTJOHN.REL-BIB,.155'], ['og', 'segði', 'við', 'hann', ':', '"', 'Sanniliga', ',', 'sanniliga', 'sigi', 'eg', 'tær', ':', 'Eingin', 'kann', 'síggja', 'Guðs', 'ríki', ',', 'uttan', 'hann', 'verður', 'föddur', 'av', 'nýggjum', '.', '"', '1936.NTJOHN.REL-BIB,.156']]
+Röng greining: [['VS:III_3J', 'Jesus', 'svaraði', '1936.NTJOHN.REL-BIB,.155', 'og', 'segði', 'við', 'hann', ':', '"', 'Sanniliga', ',', 'sanniliga', 'sigi', 'eg', 'tær', ':', 'Eingin', 'kann', 'síggja', 'Guðs', 'ríki', ',', 'uttan', 'hann', 'verður', 'föddur', 'av', 'nýggjum', '.', '"', '1936.NTJOHN.REL-BIB,.156']]
+
+Rétt greining: [['Og', 'tey', 'komu', 'hagar', '1936.NTJOHN.REL-BIB,.187'], ['og', 'lótu', 'seg', 'doypa', '.', 'VS:III_24J', 'Tí', 'at', 'enn', 'var', 'Jóhannes', 'ikki', 'kastaður', 'í', 'fongsil', '.', '1936.NTJOHN.REL-BIB,.188']]
+Röng greining: [['Og', 'tey', 'komu', 'hagar', '1936.NTJOHN.REL-BIB,.187', 'og', 'lótu', 'seg', 'doypa', '.', 'VS:III_24J', 'Tí', 'at', 'enn', 'var', 'Jóhannes', 'ikki', 'kastaður', 'í', 'fongsil', '.', '1936.NTJOHN.REL-BIB,.188']]
+
+Rétt greining: [['VS:IV_30J', 'Tey', 'fóru', 'út', 'úr', 'bygdini', '1936.NTJOHN.REL-BIB,.264'], ['og', 'komu', 'til', 'hansara', '.', '1936.NTJOHN.REL-BIB,.265']]
+Röng greining: [['VS:IV_30J', 'Tey', 'fóru', 'út', 'úr', 'bygdini', '1936.NTJOHN.REL-BIB,.264', 'og', 'komu', 'til', 'hansara', '.', '1936.NTJOHN.REL-BIB,.265']]
+
+Rétt greining: [['VS:IV_47J', 'Tá', 'ið', 'hann', 'hoyrdi', ',', 'at', 'Jesus', 'var', 'komin', 'frá', 'Júdeu', 'til', 'Galileu', ',', 'fór', 'hann', 'til', 'hansara', '1936.NTJOHN.REL-BIB,.290'], ['og', 'bað', 'hann', 'koma', 'oman', 'og', 'gera', 'son', 'sín', 'frískan', ';', 'tí', 'at', 'hann', 'lá', 'at', 'doyggja', '.', '1936.NTJOHN.REL-BIB,.291']]
+Röng greining: [['VS:IV_47J', 'Tá', 'ið', 'hann', 'hoyrdi', ',', 'at', 'Jesus', 'var', 'komin', 'frá', 'Júdeu', 'til', 'Galileu', ',', 'fór', 'hann', 'til', 'hansara', '1936.NTJOHN.REL-BIB,.290', 'og', 'bað', 'hann', 'koma', 'oman', 'og', 'gera', 'son', 'sín', 'frískan', ';', 'tí', 'at', 'hann', 'lá', 'at', 'doyggja', '.', '1936.NTJOHN.REL-BIB,.291']]
+
+Rétt greining: [['tak', 'song', 'tína', '1936.NTJOHN.REL-BIB,.315'], ['og', 'gakk', '!', '"', '1936.NTJOHN.REL-BIB,.316']]
+Röng greining: [['tak', 'song', 'tína', '1936.NTJOHN.REL-BIB,.315', 'og', 'gakk', '!', '"', '1936.NTJOHN.REL-BIB,.316']]
+
+Rétt greining: [['VS:VI_26J', 'Jesus', 'svaraði', 'teimum', '1936.NTJOHN.REL-BIB,.415'], ['og', 'segði', ':', '"', 'Sanniliga', ',', 'sanniliga', 'sigi', 'eg', 'tykkum', ':', 'Tit', 'leita', 'eftir', 'mær', ',', 'ikki', 'tí', 'at', 'tit', 'sóu', 'tekin', ',', 'men', 'tí', 'at', 'tit', 'ótu', 'av', 'breyðunum', 'og', 'vórðu', 'mett', '.', '1936.NTJOHN.REL-BIB,.416']]
+Röng greining: [['VS:VI_26J', 'Jesus', 'svaraði', 'teimum', '1936.NTJOHN.REL-BIB,.415', 'og', 'segði', ':', '"', 'Sanniliga', ',', 'sanniliga', 'sigi', 'eg', 'tykkum', ':', 'Tit', 'leita', 'eftir', 'mær', ',', 'ikki', 'tí', 'at', 'tit', 'sóu', 'tekin', ',', 'men', 'tí', 'at', 'tit', 'ótu', 'av', 'breyðunum', 'og', 'vórðu', 'mett', '.', '1936.NTJOHN.REL-BIB,.416']]
+
+Rétt greining: [['VS:VII_21J', 'Jesus', 'svaraði', '1936.NTJOHN.REL-BIB,.523'], ['og', 'segði', 'við', 'teir', ':', '"', 'Ein', 'gerning', 'gjördi', 'eg', ',', '1936.NTJOHN.REL-BIB,.524'], ['og', 'tit', 'undrast', 'allir', 'á', 'hann', '.', '1936.NTJOHN.REL-BIB,.525']]
+Röng greining: [['VS:VII_21J', 'Jesus', 'svaraði', '1936.NTJOHN.REL-BIB,.523', 'og', 'segði', 'við', 'teir', ':', '"', 'Ein', 'gerning', 'gjördi', 'eg', ',', '1936.NTJOHN.REL-BIB,.524'], ['og', 'tit', 'undrast', 'allir', 'á', 'hann', '.', '1936.NTJOHN.REL-BIB,.525']]
+
+Rétt greining: [['VS:VIII_56J', 'Ábraham', ',', 'faðir', 'tykkara', ',', 'gleddist', 'til', 'at', 'síggja', 'mín', 'dag', ',', '1936.NTJOHN.REL-BIB,.707'], ['og', 'hann', 'sá', 'hann', '1936.NTJOHN.REL-BIB,.708'], ['og', 'var', 'fegin', '.', '"', '1936.NTJOHN.REL-BIB,.709']]
+Röng greining: [['VS:VIII_56J', 'Ábraham', ',', 'faðir', 'tykkara', ',', 'gleddist', 'til', 'at', 'síggja', 'mín', 'dag', ',', '1936.NTJOHN.REL-BIB,.707'], ['og', 'hann', 'sá', 'hann', '1936.NTJOHN.REL-BIB,.708', 'og', 'var', 'fegin', '.', '"', '1936.NTJOHN.REL-BIB,.709']]
+
+Rétt greining: [['VS:IX_11J', 'Hann', 'svaraði', ':', '"', 'Tann', 'maðurin', ',', 'sum', 'kallaður', 'er', 'Jesus', ',', 'gjördi', 'runu', '1936.NTJOHN.REL-BIB,.739'], ['og', 'smurdi', 'hana', 'upp', 'á', 'eyguni', 'á', 'mær', '1936.NTJOHN.REL-BIB,.740'], ['og', 'segði', 'við', 'meg', ':', 'Far', 'til', 'Siloam', '1936.NTJOHN.REL-BIB,.741'], ['og', 'tváa', 'tær', '.', '1936.NTJOHN.REL-BIB,.742']]
+Röng greining: [['VS:IX_11J', 'Hann', 'svaraði', ':', '"', 'Tann', 'maðurin', ',', 'sum', 'kallaður', 'er', 'Jesus', ',', 'gjördi', 'runu', '1936.NTJOHN.REL-BIB,.739', 'og', 'smurdi', 'hana', 'upp', 'á', 'eyguni', 'á', 'mær', '1936.NTJOHN.REL-BIB,.740', 'og', 'segði', 'við', 'meg', ':', 'Far', 'til', 'Siloam', '1936.NTJOHN.REL-BIB,.741', 'og', 'tváa', 'tær', '.', '1936.NTJOHN.REL-BIB,.742']]
+
+Rétt greining: [['Jesus', 'segði', 'við', 'teir', ':', '"', 'Loysið', 'hann', '1936.NTJOHN.REL-BIB,.965'], ['og', 'latið', 'hann', 'fara', '!', '"', '1936.NTJOHN.REL-BIB,.966']]
+Röng greining: [['Jesus', 'segði', 'við', 'teir', ':', '"', 'Loysið', 'hann', '1936.NTJOHN.REL-BIB,.965', 'og', 'latið', 'hann', 'fara', '!', '"', '1936.NTJOHN.REL-BIB,.966']]
+
+Rétt greining: [['VS:XI_56J', 'Teir', 'leitaðu', 'tá', 'eftir', 'Jesusi', '1936.NTJOHN.REL-BIB,.984'], ['og', 'sögdu', 'sín', 'ámillum', ',', 'har', 'sum', 'teir', 'stóðu', 'í', 'halgidóminum', ':', '"', 'Hvat', 'halda', 'tit', '?', '1936.NTJOHN.REL-BIB,.985']]
+Röng greining: [['VS:XI_56J', 'Teir', 'leitaðu', 'tá', 'eftir', 'Jesusi', '1936.NTJOHN.REL-BIB,.984', 'og', 'sögdu', 'sín', 'ámillum', ',', 'har', 'sum', 'teir', 'stóðu', 'í', 'halgidóminum', ':', '"', 'Hvat', 'halda', 'tit', '?', '1936.NTJOHN.REL-BIB,.985']]
+
+Rétt greining: [['VS:XIII_24J', 'Til', 'hansara', 'nikkar', 'tá', 'Símun', 'Pætur', '1936.NTJOHN.REL-BIB,.1117'], ['og', 'sigur', 'við', 'hann', ':', '"', 'Sig', ',', 'hvör', 'tað', 'er', ',', 'sum', 'hann', 'talar', 'um', '!', '"', '1936.NTJOHN.REL-BIB,.1118']]
+Röng greining: [['VS:XIII_24J', 'Til', 'hansara', 'nikkar', 'tá', 'Símun', 'Pætur', '1936.NTJOHN.REL-BIB,.1117', 'og', 'sigur', 'við', 'hann', ':', '"', 'Sig', ',', 'hvör', 'tað', 'er', ',', 'sum', 'hann', 'talar', 'um', '!', '"', '1936.NTJOHN.REL-BIB,.1118']]
+
+Rétt greining: [['eg', 'fari', 'úr', 'heiminum', 'aftur', '1936.NTJOHN.REL-BIB,.1316'], ['og', 'fari', 'til', 'faðirin', '.', '"', '1936.NTJOHN.REL-BIB,.1317']]
+Röng greining: [['eg', 'fari', 'úr', 'heiminum', 'aftur', '1936.NTJOHN.REL-BIB,.1316', 'og', 'fari', 'til', 'faðirin', '.', '"', '1936.NTJOHN.REL-BIB,.1317']]
+
+Rétt greining: [['VS:XVII_1J', 'Hetta', 'talaði', 'Jesus', '1936.NTJOHN.REL-BIB,.1329'], ['og', 'hann', 'lyfti', 'upp', 'eygum', 'sínum', 'til', 'himmalin', '1936.NTJOHN.REL-BIB,.1330'], ['og', 'segði', ':', '"', 'Faðir', ',', 'tímin', 'er', 'komin', ';', '1936.NTJOHN.REL-BIB,.1331']]
+Röng greining: [['VS:XVII_1J', 'Hetta', 'talaði', 'Jesus', '1936.NTJOHN.REL-BIB,.1329', 'og', 'hann', 'lyfti', 'upp', 'eygum', 'sínum', 'til', 'himmalin', '1936.NTJOHN.REL-BIB,.1330'], ['og', 'segði', ':', '"', 'Faðir', ',', 'tímin', 'er', 'komin', ';', '1936.NTJOHN.REL-BIB,.1331']]
+
+Rétt greining: [['VS:XVIII_12J', 'Vaktarmenninir', 'og', 'hövuðsmaðurin', 'og', 'tænararnir', 'hjá', 'Jödunum', 'tóku', 'nú', 'Jesus', '1936.NTJOHN.REL-BIB,.1390'], ['og', 'bundu', 'hann', '.', '1936.NTJOHN.REL-BIB,.1391']]
+Röng greining: [['VS:XVIII_12J', 'Vaktarmenninir'], ['og', 'hövuðsmaðurin', 'og', 'tænararnir', 'hjá', 'Jödunum', 'tóku', 'nú', 'Jesus', '1936.NTJOHN.REL-BIB,.1390', 'og', 'bundu', 'hann', '.', '1936.NTJOHN.REL-BIB,.1391']]
+
+Rétt greining: [['Men', 'eisini', 'Pætur', 'stóð', 'hjá', 'teimum', '1936.NTJOHN.REL-BIB,.1405'], ['og', 'vermdi', 'seg', '.', '1936.NTJOHN.REL-BIB,.1406']]
+Röng greining: [['Men', 'eisini', 'Pætur', 'stóð', 'hjá', 'teimum', '1936.NTJOHN.REL-BIB,.1405', 'og', 'vermdi', 'seg', '.', '1936.NTJOHN.REL-BIB,.1406']]
+
+Rétt greining: [['VS:XVIII_31J', 'Pilatus', 'segði', 'tá', 'við', 'teir', ':', '"', 'Takið', 'tit', 'hann', '1936.NTJOHN.REL-BIB,.1434'], ['og', 'dömið', 'hann', 'eftir', 'lóg', 'tykkara', '.', '"', '1936.NTJOHN.REL-BIB,.1435']]
+Röng greining: [['VS:XVIII_31J', 'Pilatus', 'segði', 'tá', 'við', 'teir', ':', '"', 'Takið', 'tit', 'hann', '1936.NTJOHN.REL-BIB,.1434', 'og', 'dömið', 'hann', 'eftir', 'lóg', 'tykkara', '.', '"', '1936.NTJOHN.REL-BIB,.1435']]
+
+Rétt greining: [['VS:XX_22J', 'Og', 'tá', 'ið', 'hann', 'hevði', 'sagt', 'hetta', ',', 'andaði', 'hann', 'á', 'teir', '1936.NTJOHN.REL-BIB,.1602'], ['og', 'sigur', 'við', 'teir', ':', '"', 'Takið', 'við', 'heilagum', 'anda', '.', '1936.NTJOHN.REL-BIB,.1603']]
+Röng greining: [['VS:XX_22J', 'Og', 'tá', 'ið', 'hann', 'hevði', 'sagt', 'hetta', ',', 'andaði', 'hann', 'á', 'teir', '1936.NTJOHN.REL-BIB,.1602', 'og', 'sigur', 'við', 'teir', ':', '"', 'Takið', 'við', 'heilagum', 'anda', '.', '1936.NTJOHN.REL-BIB,.1603']]
+
+----------------------------------------------------------------------------------------------
+Hér er mengi af tilvikum sem voru merkt sem ósannur-jákvæður (e. false-positive):
+
+('VS:XVIII_12J', 'Vaktarmenninir', 'BOUNDARY', 'hövuðsmaðurin', 'BOUNDARY')
+(',', 'Himmalins', 'BOUNDARY', 'Jörðina', 'Harri')
+----------------------------------------------------------------------------------------------
+Hér er mengi af tilvikum sem voru merkt sem ósannur-neikvæður (e. false-negative):
+
+('honum', '1928.NTACTS.REL-BIB,.115', 'BOUNDARY', 'reisti', 'hann')
+('hann', '1936.NTJOHN.REL-BIB,.1434', 'BOUNDARY', 'dömið', 'hann')
+('fyri', '1928.NTACTS.REL-BIB,.453', 'BOUNDARY', 'gjördi', 'fólkið')
+('Jesus', '1936.NTJOHN.REL-BIB,.1329', 'BOUNDARY', 'hann', 'lyfti')
+('Guði', '1928.NTACTS.REL-BIB,.405', 'BOUNDARY', 'bað', 'um')
+('teimum', '1936.NTJOHN.REL-BIB,.1405', 'BOUNDARY', 'vermdi', 'seg')
+('út', '1928.NTACTS.REL-BIB,.808', 'BOUNDARY', 'fór', 'burtur')
+('Jesusi', '1936.NTJOHN.REL-BIB,.984', 'BOUNDARY', 'sögdu', 'sín')
+('Far', '1928.NTACTS.REL-BIB,.490', 'BOUNDARY', 'halt', 'teg')
+('hagar', '1936.NTJOHN.REL-BIB,.187', 'BOUNDARY', 'lótu', 'seg')
+('runu', '1936.NTJOHN.REL-BIB,.739', 'BOUNDARY', 'smurdi', 'hana')
+('Pætur', '1936.NTJOHN.REL-BIB,.1117', 'BOUNDARY', 'sigur', 'við')
+('hann', '1936.NTJOHN.REL-BIB,.965', 'BOUNDARY', 'latið', 'hann')
+('upp', '1928.NTACTS.REL-BIB,.355', 'BOUNDARY', 'fostraði', 'hann')
+('menn', '1928.NTACTS.REL-BIB,.707', 'BOUNDARY', 'hevur', 'etið')
+('orða', '1936.NTJOHN.REL-BIB,.139', 'BOUNDARY', 'sögdu', 'við')
+('teimum', '1936.NTJOHN.REL-BIB,.415', 'BOUNDARY', 'segði', ':')
+('niður', '1928.NTACTS.REL-BIB,.205', 'BOUNDARY', 'gav', 'upp')
+('upp', '1928.NTACTS.REL-BIB,.934', 'BOUNDARY', 'gekk', '.')
+('Tit', '1823.NTMATT.REL-BIB,.67', 'BOUNDARY', 'fregnist', 'flittuliga')
+('svaraði', '1936.NTJOHN.REL-BIB,.523', 'BOUNDARY', 'segði', 'við')
+('Siloam', '1936.NTJOHN.REL-BIB,.741', 'BOUNDARY', 'tváa', 'tær')
+('Kom', '1936.NTJOHN.REL-BIB,.94', 'BOUNDARY', 'síggj', '!')
+('teimum', '1928.NTACTS.REL-BIB,.919', 'BOUNDARY', 'fóru', 'til')
+('Jesus', '1936.NTJOHN.REL-BIB,.1390', 'BOUNDARY', 'bundu', 'hann')
+('bygdini', '1936.NTJOHN.REL-BIB,.264', 'BOUNDARY', 'komu', 'til')
+('Guði', '1928.NTACTS.REL-BIB,.101', 'BOUNDARY', 'hövdu', 'yndi')
+('teimum', '1928.NTACTS.REL-BIB,.1075', 'BOUNDARY', 'buðu', ',')
+('mær', '1936.NTJOHN.REL-BIB,.740', 'BOUNDARY', 'segði', 'við')
+('anda', '1928.NTACTS.REL-BIB,.846', 'BOUNDARY', 'hugdi', 'hvassliga')
+('hansara', '1823.NTMATT.REL-BIB,.143', 'BOUNDARY', 'segði', ':')
+('hann', '1928.NTACTS.REL-BIB,.706', 'BOUNDARY', 'sögdu', ':')
+('Ásiu', '1928.NTACTS.REL-BIB,.306', 'BOUNDARY', 'hövdu', 'orðadrátt')
+('hann', '1928.NTACTS.REL-BIB,.662', 'BOUNDARY', 'fór', 'avstað')
+('aftur', '1936.NTJOHN.REL-BIB,.1316', 'BOUNDARY', 'fari', 'til')
+('hann', '1936.NTJOHN.REL-BIB,.708', 'BOUNDARY', 'var', 'fegin')
+('dagin', '1928.NTACTS.REL-BIB,.695', 'BOUNDARY', 'læt', 'hann')
+('svaraði', '1936.NTJOHN.REL-BIB,.155', 'BOUNDARY', 'segði', 'við')
+('hann', '1928.NTACTS.REL-BIB,.847', 'BOUNDARY', 'segði', ':')
+('trænum', '1928.NTACTS.REL-BIB,.887', 'BOUNDARY', 'lögdu', 'hann')
+('vitnaði', '1936.NTJOHN.REL-BIB,.60', 'BOUNDARY', 'segði', ':')
+('tína', '1936.NTJOHN.REL-BIB,.315', 'BOUNDARY', 'gakk', '!')
+('teir', '1936.NTJOHN.REL-BIB,.1602', 'BOUNDARY', 'sigur', 'við')
+('hansara', '1936.NTJOHN.REL-BIB,.290', 'BOUNDARY', 'bað', 'hann')
+----------------------------------------------------------------------------------------------

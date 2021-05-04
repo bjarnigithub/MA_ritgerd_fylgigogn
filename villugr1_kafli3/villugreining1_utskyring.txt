@@ -1,0 +1,20 @@
+Í villugreining.gz er líkanið sem splitter.py notaði í villugreiningunni 
+á upphaflegu útgáfunni af splitter.py. Train.txt skráin var notuð til að 
+þjálfa forritið. 
+
+Í villugreiningu 1 var test_inputfile_fyrirallarvillugr.txt sett í gegnum 
+splitter.py og úttakið var sett í test_textOutputfile_fyrirvillugr1.txt. 
+
+test_textOutputfile_fyrirvillugr1.txt og test_correctoutput__fyrirvillugr1.txt
+var sett í gegnum maelanakvaemni_fyrir_villugr1.py forritið og úttakið var sett í skrána 
+villugr1_nidurst_og_en_eda.txt. Í þessari keyrslu innihélt aðalsetningalistabreyta
+aðaltengingarnar og/en/eða. 
+
+test_textOutputfile_fyrirvillugr1.txt og test_correctoutput__fyrirvillugr_eftiruppf.txt
+var sett í gegnum maelanakvaemni_fyrir_villugr1.py forritið og úttakið var sett í skrána 
+villugr1_nidurst_og_en_eda_heldur_enda_ellegar.txt. Adalsetningalistabreyta var uppfærð 
+í maelanakvaemni_fyrir_villugr1.py í þessari keyrslu og innihélt hún þess vegna allar 
+aðaltengingarnar (þ.e. og/en/eða/heldur/enda/ellegar). 
+
+maelanakvaemni_fyrir_villugr1.py er útgáfan af maelanakvaemni.py sem notuð var í 
+villugreiningu 1
