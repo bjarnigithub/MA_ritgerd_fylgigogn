@@ -1,11 +1,11 @@
 # Template: 
 # ./runallNeural.sh [model] [heldurendaellegar] [threewords] [ordflokkar] [obeygjanlegt] [greinarmerki] [train_or_split] [isl_or_faer_language] [textoutputfile] [psdoutputfile] [inputFile]
 
-#faer_villugr_adaltengingar => leita að og/en/eða/heldur/enda/ellegar;
-#faer_villugr_threewords => leita að og/en/eða/heldur/enda/ellegar; threewords -  leita að þremur orðum fyrir framan og aftan aðaltengingu; 
-#faer_villugr_ordflokkar => leita að og/en/eða/heldur/enda/ellegar; ordflokkar - skoða orðflokka 
-#faer_villugr_obeygjanlegt => leita að og/en/eða/heldur/enda/ellegar; obeygjanlegt - hvort orð sé óbeygjanlegt 
-#faer_villugr_greinarmerki => leita að og/en/eða/heldur/enda/ellegar; greinarmerki - skoða fleiri greinarmerki 
+#faer_villugr_adaltengingar => leita að og/men/ella;
+#faer_villugr_threewords => leita að og/men/ella; threewords -  leita að þremur orðum fyrir framan og aftan aðaltengingu; 
+#faer_villugr_ordflokkar => leita að og/men/ella; ordflokkar - skoða orðflokka 
+#faer_villugr_obeygjanlegt => leita að og/men/ella; obeygjanlegt - hvort orð sé óbeygjanlegt 
+#faer_villugr_greinarmerki => leita að og/men/ella; greinarmerki - skoða fleiri greinarmerki 
 #faer_villugr_allaruppf => allar uppfærslur
 
 ##faer_villugr_adaltengingar
