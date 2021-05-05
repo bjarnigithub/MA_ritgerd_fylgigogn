@@ -10,4 +10,6 @@ Forritið splitter.py notar gögn úr eftirfarandi málheildum:
 
     Bráðabirgðabeygingarlýsing færeysks nútímamáls (sjá https://github.com/hinrikur/far-ABLTagger og http://hdl.handle.net/1946/37025)
 
-Forritið splitter.py er hluti af taugaþáttunarpípunni iceParsingPipeline (gefið út með MIT-leyfi)
+Forritið splitter.py er hluti af taugaþáttunarpípunni iceParsingPipeline (gefið út með MIT-leyfi, sjá https://github.com/antonkarl/iceParsingPipeline)
+
+Til að keyra splitter.py þarf að installa eftirfarandi pökkum: detectormorse og nlup. 
