@@ -1,4 +1,4 @@
-Í villugreining.gz er líkanið sem splitter.py notaði í villugreiningunni 
+Í villugreining1.gz er líkanið sem splitter.py notaði í villugreiningunni 
 á upphaflegu útgáfunni af splitter.py. Train.txt skráin var notuð til að 
 þjálfa forritið. 
 
