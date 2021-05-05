@@ -10,6 +10,8 @@ from nlup import listify, BinaryAveragedPerceptron, BinaryConfusion, JSONable
 # Forritið notar gögn úr Sigrúnarsniðinu (Beygingarlýsing íslensks nútímamáls. Stofnun Árna Magnússonar í íslenskum fræðum. Höfundur og ritstjóri Kristín Bjarnadóttir) (https://bin.arnastofnun.is/). 
 # Gögn úr Sigrúnarsniðinu voru sameinuð í skrá ásamt gögnum úr IcePaHC. Í þessari nýju skrá hafa allar beygingarmyndirnar úr Sigrúnarsniðinu verið skrifaðar með lágstöfum. 
 
+# Í faer_wordtags_bbfn_sameinad_lowercase.tsv hafa allar beygingarmyndir úr FarPaHC og BBFN verið skrifaðar með lágstöfum. 
+
 # þessi útgáfa af splitternum var notuð í villugreiningu 2 (kafli 4) - hér er búið að innleiða uppfærslur á þann hátt að hægt er að keyra nokkrar tilraunir með shell skriftum
 
 # í staðinn fyrir nöfnin á uppfærslubreytunun skal setja annað hvort y eða n 
