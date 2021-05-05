@@ -7,7 +7,7 @@ from detectormorse.ptbtokenizer import word_tokenize
 
 from nlup import listify, BinaryAveragedPerceptron, BinaryConfusion, JSONable
 
-# forritið notar gögn úr Sigrúnarsniðinu (Beygingarlýsing íslensks nútímamáls. Stofnun Árna Magnússonar í íslenskum fræðum. Höfundur og ritstjóri Kristín Bjarnadóttir) (https://bin.arnastofnun.is/). 
+# Forritið notar gögn úr Sigrúnarsniðinu (Beygingarlýsing íslensks nútímamáls. Stofnun Árna Magnússonar í íslenskum fræðum. Höfundur og ritstjóri Kristín Bjarnadóttir) (https://bin.arnastofnun.is/). 
 # Gögn úr Sigrúnarsniðinu voru sameinuð í skrá ásamt gögnum úr IcePaHC. Í þessari nýju skrá hafa allar beygingarmyndirnar úr Sigrúnarsniðinu verið skrifaðar með lágstöfum. 
 
 # þessi útgáfa af splitternum var notuð í villugreiningu 2 (kafli 4) - hér er búið að innleiða uppfærslur á þann hátt að hægt er að keyra nokkrar tilraunir með shell skriftum
@@ -49,7 +49,7 @@ if isl_or_faer_language == "isl":
   WORDTAGS_FILENAME = WORDTAGS_LOCATION + "isl_wordtags_sigrunarsnid_sameinad_lowercase.tsv"
   TRAIN_FILE = "train.txt"
 elif isl_or_faer_language == "faer": 
-  WORDTAGS_FILENAME = WORDTAGS_LOCATION + "faer_wordtags_sigrunarsnid_sameinad_lowercase.tsv"
+  WORDTAGS_FILENAME = WORDTAGS_LOCATION + "faer_wordtags_bbfn_sameinad_lowercase.tsv"
   TRAIN_FILE = "faer_train.txt"
 
 # defaults
